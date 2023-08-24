@@ -1,0 +1,8 @@
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,ai.com
+  - PROCESS-NAME,msedgewebview2.exe
+  - DOMAIN-KEYWORD,bing.com
+  - DOMAIN-KEYWORD,poecdn
+  - DOMAIN-KEYWORD,www.yelue.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN,openaipublic.blob.core.windows.net
